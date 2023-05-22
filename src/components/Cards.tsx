@@ -7,11 +7,9 @@ import {
     Text,
     Badge,
     Button,
-    useMantineTheme,
 } from "@mantine/core";
 
 function Cards() {
-    const theme = useMantineTheme();
 
     return (
         <div className="App">

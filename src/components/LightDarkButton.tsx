@@ -1,6 +1,6 @@
 import React from "react";
 import { ActionIcon } from "@mantine/core";
-import { useMantineColorScheme, useMantineTheme } from "@mantine/core";
+import { useMantineColorScheme } from "@mantine/core";
 import { IconSun, IconMoonStars } from '@tabler/icons-react';
 
 function LightAndDarkModeButton() {
